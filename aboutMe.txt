@@ -1,3 +1,5 @@
 Name: Ralph Gustave
 Project Goal: Master Git!
 Favorite TV Show: Jerry Seinfield
+Favorite Quote:
+"When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night. Marissa Mayer
