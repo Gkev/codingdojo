@@ -5,3 +5,5 @@ Favorite Quote:
 "When people think about computer science, they imagine people with pocket protectors and thick glasses who code all night. Marissa Mayer
 
 Country: Haiti
+
+I am glad that I made my first repo with git and pushed it to Github on June 10, 2017.
